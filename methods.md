@@ -9,6 +9,8 @@
 **Hypothesis 2:** Higher IOP positively correlates with closer proximity. 
 * *But how are we going to define proximity? Maybe determine a range for how many times a day teacher approached student (also need to determine how long they need to stay next to the student to count as approaching), and how much time total the teacher spent close to student?--MC, 11-04-2025*
 
+**Hypothesis 3:** Higher implicit proximity (XYZ) correlates with higher STRS and SPARTS.
+
 ## TO DO
 
 *Add or remove steps according to need.*
@@ -45,3 +47,13 @@
     * IOP vs STRS
     * IOP vs SPARTS
 * ...
+
+## LOGBOOK
+
+11-04-2025
+* created new file structure in workgroup folder
+* loaded and inspected available data in Jupyter
+* determined and requested missing data
+25-04-2025
+* set up Github repository
+* 
