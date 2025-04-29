@@ -30,6 +30,7 @@
     * Determine tracking start and end time
 * **Survey data**
     * Calculate scores: check codebook for sources on correct computation
+      * We need to ask for scoring sheets for both SPARTS and STRS!
     * Check for weird data (they're reliable scales so I guess it should be fine--MC, 11-04-2025) 
 * ...
 ### Processing
