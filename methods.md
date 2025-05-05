@@ -48,13 +48,3 @@
     * IOP vs STRS
     * IOP vs SPARTS
 * ...
-
-## LOGBOOK
-
-11-04-2025
-* created new file structure in workgroup folder
-* loaded and inspected available data in Jupyter
-* determined and requested missing data
-25-04-2025
-* set up Github repository
-* 
