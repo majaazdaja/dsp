@@ -26,15 +26,17 @@
 * **Tracking data**
     * [x] Add 'school' and 'class' values from subfolder name as key values
     * [ ] Remove outliers
+    * [ ] Determine class breaks according to observation schemes and remove corresponding timestamps from the data (do not fill them in as empty) 
     * [ ] Fill in missing timestamps -> tracker goes to sleep mode, see VU paper for method
     * [ ] Determine tracking start and end time -> check logbooks!
 * **Survey data**
-    * [ ] Calculate scores: check codebook for sources on correct computation
-      * [ ] Scoring info not in sources; need to ask for scoring sheets for both SPARTS and STRS
-   * [x] Extract IOP scores from teacher responses
+    * [x] Calculate scores: check codebook for sources on correct computation
+      * [x] Scoring info not in sources; need to ask for scoring sheets for both SPARTS and STRS
+      * *Was informed by Nathalie that there are no scoring sheets or cutoffs, proceeding with calculating raw scores*
+    * [x] Extract IOP scores from teacher responses
       * [x] Match individual IOP responses to student IDs
-   * [ ] Extract STRS scores from teacher responses
-   * [ ] Extract SPARTS scores from student responses
+    * [ ] Extract STRS scores from teacher responses
+    * [x] Extract SPARTS scores from student responses
 ### Processing
 * [ ] Compute Euclidean teacher-student distance -> see VU paper for method
 * [ ] Determine baseline teacher-student distance
