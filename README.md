@@ -13,7 +13,7 @@ The Jupyter notebooks in this repository process a partial dataset of the Veilig
 * **Hypothesis 2:** Higher IOP positively correlates with closer proximity.
 * **Hypothesis 3:** Higher implicit proximity (XYZ) correlates with higher STRS and SPARTS.
 
-## Project TO DO
+## TO DO
 ### Import data
   * All raw files are stored on RU-hosted workgroup folder
   * **Tracking data**
