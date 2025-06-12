@@ -1,6 +1,7 @@
 # Data science project
 
 **Course:** Data Science Project (NWI-IBC045)
+
 **Date:** June 2025
 
 ## Project description
