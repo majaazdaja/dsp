@@ -17,7 +17,7 @@ The Jupyter notebooks in this repository process a partial dataset of the Veilig
 ### Import data
 All raw files are stored on RU-hosted workgroup folder 
 #### Tracking data
-Variables: Timestamps, XYZ coordinates, TagId
+* Variables: Timestamps, XYZ coordinates, TagId
 #### Survey data
 * Teacher variables: IOP, STRS
 * Student variables: SPARTS
