@@ -15,12 +15,12 @@ The Jupyter notebooks in this repository process a partial dataset of the Veilig
 
 ## TO DO
 ### Import data
-  * All raw files are stored on RU-hosted workgroup folder
-  * **Tracking data**
-      * Variables: Timestamps, XYZ coordinates, TagId
-  * **Survey data**
-      * Teachers: IOP, STRS
-      * Student: SPARTS
+All raw files are stored on RU-hosted workgroup folder 
+#### Tracking data
+Variables: Timestamps, XYZ coordinates, TagId
+#### Survey data
+* Teacher variables: IOP, STRS
+* Student variables: SPARTS
 ### Pre-processing
 * **Tracking data**
   * [x] Add 'school' and 'class' values from subfolder name as key values
