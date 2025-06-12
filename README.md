@@ -15,12 +15,12 @@ The Jupyter notebooks in this repository process a partial dataset of the Veilig
 
 ## TO DO
 ### Import data
-All raw files are stored on RU-hosted workgroup folder 
-#### Tracking data
-* Variables: Timestamps, XYZ coordinates, TagId
-#### Survey data
-* Teacher variables: IOP, STRS
-* Student variables: SPARTS
+* All raw files are stored on RU-hosted workgroup folder 
+* **Tracking data**
+  * Variables: Timestamps, XYZ coordinates, TagId
+* **Survey data**
+  * Teacher variables: IOP, STRS
+  * Student variables: SPARTS
 ### Pre-processing
 * **Tracking data**
   * [x] Add 'school' and 'class' values from subfolder name as key values
@@ -28,7 +28,7 @@ All raw files are stored on RU-hosted workgroup folder
   * [x] Determine class breaks according to observation schemes and remove corresponding timestamps from the data (do not fill them in as empty) 
   * [x] Fill in missing timestamps--tracker goes to sleep mode after 3min of not moving
   * [x] Determine tracking start and end time--check observer logbooks!
-### Survey data
+* **Survey data**
   * [x] Calculate scores: check codebook for sources on correct computation
   * [x] Extract IOP scores from teacher responses
   * [x] Match individual IOP responses to student IDs
